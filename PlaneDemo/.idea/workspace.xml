@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a53af64d-6e81-49f7-9db4-84091f255cd3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T6cTfYAIwcLKefPprbwoxLIAFc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PlanWarsDemo/src/images" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\99610\IdeaProjects\Demo\PlanWarsDemo\src\images" />
+      <recent name="C:\Users\99610\IdeaProjects\Demo\PlanWarsDemo\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sxwl.entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\99610\IdeaProjects\Demo\PlanWarsDemo\src\images" />
+      <recent name="C:\Users\99610\IdeaProjects\Demo\PlaneWars\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PlaneStart (1)">
+    <configuration name="PlaneStart (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxwl.run.PlaneStart" />
+      <module name="PlanWarsDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxwl.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaneStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sxwl.run.PlaneStart" />
+      <module name="PlaneWars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxwl.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aa" />
+      <module name="PlaneWars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlaneStart (1)" />
+        <item itemvalue="Application.aa" />
+        <item itemvalue="Application.PlaneStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a53af64d-6e81-49f7-9db4-84091f255cd3" name="Default Changelist" comment="" />
+      <created>1572783994790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572783994790</updated>
+      <workItem from="1572783999180" duration="6104000" />
+      <workItem from="1572836220332" duration="8112000" />
+      <workItem from="1572855851347" duration="443000" />
+      <workItem from="1572856312502" duration="1252000" />
+      <workItem from="1572857585494" duration="6233000" />
+      <workItem from="1572866617353" duration="1485000" />
+      <workItem from="1572868154396" duration="270000" />
+      <workItem from="1572868444841" duration="222000" />
+      <workItem from="1572868687979" duration="1777000" />
+      <workItem from="1572870489936" duration="290000" />
+      <workItem from="1572870800320" duration="1064000" />
+      <workItem from="1572871885704" duration="3858000" />
+      <workItem from="1572877971102" duration="1272000" />
+      <workItem from="1572879335633" duration="2030000" />
+      <workItem from="1572881543884" duration="348000" />
+      <workItem from="1572881915115" duration="431000" />
+      <workItem from="1572918915686" duration="3852000" />
+      <workItem from="1572923394689" duration="10278000" />
+      <workItem from="1572951171463" duration="2955000" />
+      <workItem from="1573001493551" duration="19089000" />
+      <workItem from="1573031317617" duration="4222000" />
+      <workItem from="1573043269917" duration="29000" />
+      <workItem from="1573043403099" duration="52000" />
+      <workItem from="1573043712421" duration="145000" />
+      <workItem from="1573044643932" duration="83000" />
+      <workItem from="1573048325860" duration="641000" />
+      <workItem from="1573052283870" duration="578000" />
+      <workItem from="1573105015197" duration="262000" />
+      <workItem from="1573108644467" duration="79000" />
+      <workItem from="1573108726647" duration="107000" />
+      <workItem from="1573378685110" duration="22000" />
+      <workItem from="1573784101525" duration="455000" />
+      <workItem from="1573891112634" duration="196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
